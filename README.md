@@ -50,3 +50,8 @@ https://www.macrometa.com/event-stream-processing/apache-beam-tutorialLinks to a
 and https://colab.sandbox.google.com/drive/1qrqbpRpfMtwosjcZQ3_qAWvBCXtzs-8D?usp=sharing
 
 Total marks : 25%
+
+
+Assignment 1: Notebook : https://colab.research.google.com/drive/1yKbUmfhkpP5GBwJ3HuCwzlCaAgr3x-4B?usp=sharing
+Assignment 2: Notebook : https://colab.research.google.com/drive/1FnesncOqJKCyA8fNzgysdl5agBRRTjO4?usp=sharing
+Assignment 3: Notebook : https://colab.research.google.com/drive/1ErQyjzoQUC4w_6wpYEqGYp5HkXwv5r8s?usp=sharing
